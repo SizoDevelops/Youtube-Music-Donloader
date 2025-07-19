@@ -6,6 +6,8 @@ This script uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](https:/
 
 Usage
 
+## Windows
+
 Step 1: Run the Script
 
 Run the script in a command prompt or terminal.
@@ -36,4 +38,23 @@ Your folder structure should look like this:
     - YTM/  
       - youtube-m-downloader.bat  
       - yt-dlp.exe  
-  
+
+Run `youtube-m-downloader.bat`
+
+
+# Linux
+
+
+  Download yt-dlp for Linux from [here](https://github.com/yt-dlp/yt-dlp)
+
+  Download FFmpeg `sudo apt-get install ffmpeg`
+
+
+  Your folder structure should look like this:
+
+  - YT Music Dl/
+    - youtube-m-downloader.sh
+    - yt-dlp_linux
+
+
+  Run `youtube-m-downloader.sh`

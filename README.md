@@ -52,7 +52,7 @@ Run `youtube-m-downloader.bat`
 
   Your folder structure should look like this:
 
-  - YT Music Dl/
+  - YTM/
     - youtube-m-downloader.sh
     - yt-dlp_linux
 

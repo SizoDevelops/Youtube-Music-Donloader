@@ -8,22 +8,6 @@ Usage
 
 ## Windows
 
-Step 1: Run the Script
-
-Run the script in a command prompt or terminal.
-
-Step 2: Enter Video URL
-
-Enter the YouTube video URL when prompted.
-
-Step 3: Enter Output Path
-
-Enter the output path for the music files when prompted.
-
-Step 4: Download Music
-
-The script will download the music and save it as MP3 files in the specified output path.
-
 Requirements
 
 `yt-dlp`
@@ -40,6 +24,24 @@ Your folder structure should look like this:
       - yt-dlp.exe  
 
 Run `youtube-m-downloader.bat`
+
+Step 1: Run the Script
+
+Run the script in a command prompt or terminal.
+
+Step 2: Enter Video URL
+
+Enter the YouTube video URL when prompted.
+
+Step 3: Enter Output Path
+
+Enter the output path for the music files when prompted.
+
+Step 4: Download Music
+
+The script will download the music and save it as MP3 files in the specified output path.
+
+
 
 
 # Linux
